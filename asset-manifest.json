@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simpleCrud/static/css/main.60f30418.css",
+    "main.js": "/simpleCrud/static/js/main.40941f8d.js",
+    "static/js/787.ad4f4dcc.chunk.js": "/simpleCrud/static/js/787.ad4f4dcc.chunk.js",
+    "index.html": "/simpleCrud/index.html",
+    "main.60f30418.css.map": "/simpleCrud/static/css/main.60f30418.css.map",
+    "main.40941f8d.js.map": "/simpleCrud/static/js/main.40941f8d.js.map",
+    "787.ad4f4dcc.chunk.js.map": "/simpleCrud/static/js/787.ad4f4dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f30418.css",
+    "static/js/main.40941f8d.js"
+  ]
+}
